@@ -1,0 +1,13 @@
+Date,Product,Category,Quantity,Unit_Price,Total_Sales,Region,Salesperson
+2024-01-05,Laptop,Technology,2,1200,2400,North,Ahmed
+2024-01-10,Mouse,Technology,15,25,375,South,Sara
+2024-01-15,Desk,Furniture,3,300,900,North,Ahmed
+2024-02-02,Keyboard,Technology,10,80,800,East,Youssef
+2024-02-08,Chair,Furniture,5,150,750,South,Sara
+2024-02-20,Monitor,Technology,4,250,1000,West,Nabil
+2024-03-01,Laptop,Technology,1,1200,1200,North,Ahmed
+2024-03-12,Desk,Furniture,2,300,600,East,Youssef
+2024-03-18,Mouse,Technology,20,25,500,West,Nabil
+2024-04-05,Chair,Furniture,8,150,1200,North,Sara
+2024-04-10,Monitor,Technology,6,250,1500,South,Ahmed
+2024-05-01,Keyboard,Technology,12,80,960,West,Nabil
